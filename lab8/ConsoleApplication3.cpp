@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include "stringWork.h"
 #include <string.h>
-#include "taskSolution.h"
 #include <malloc.h>
 #include "taskSol.h"
 
